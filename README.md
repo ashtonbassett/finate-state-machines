@@ -6,6 +6,7 @@ Team #23
 
 Team Members:
 Ashton Bassett
+Kaedyn Galushkin
 
 ## Rubric
 
